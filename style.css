@@ -1,0 +1,87 @@
+.main {
+    width: 1300px;
+    height: 1500px;
+    background-color: rgb(235, 235, 235);
+    border-width: 2px;
+    border-color: rgb(199, 199, 199);
+    border-style: dashed;
+    margin: auto;
+    
+}
+
+.blue {
+    color: rgb(255, 255, 255);
+    width: 500px;
+    height: 200px;
+    background-color: rgb(62, 62, 110);
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 12px;
+    
+    outline: rgb(202, 172, 71) 2px dashed;
+    outline-offset: -4px;
+
+    box-shadow: rgba(108, 107, 116, .5) 15px 15px 7px;
+    position: relative;
+    top: 10px;
+
+    
+
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo {
+    height: 50px;
+    width: 30px;
+    margin: 10px;
+    background-color: rgb(99, 90, 141);
+    position: absolute;
+    top: 10px;
+}
+.logo2 {
+    height: 50px;
+    width: 30px;
+    margin: 10px;
+    background-color: rgb(135, 90, 141);
+    position: absolute;
+    top: 20px;
+    left: 35px;
+}
+.logo3 {
+    height: 50px;
+    width: 30px;
+    margin: 10px;
+    background-color: rgb(141, 90, 115);
+    position: absolute;
+    top: 30px;
+    left: 45px;
+}
+.looong {
+    color: floralwhite;
+    height: 1200px;
+    width: 100px;
+    background-color: rgb(134, 74, 116);
+    position: relative;
+    left: 1100px;
+    outline: rgb(177, 101, 158) dotted 1px;
+    outline-offset: -5px;
+    box-shadow: rgba(63, 48, 63, .7) 30px 40px 10px;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.yoba {
+    background-color: gold;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 400px;
+    left: 400px;
+}
