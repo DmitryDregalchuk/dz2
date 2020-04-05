@@ -41,26 +41,26 @@ p {
     width: 30px;
     margin: 10px;
     background-color: rgb(99, 90, 141);
-    position: absolute;
-    top: 10px;
+    position: relative;
+    top: -270px;
 }
 .logo2 {
     height: 50px;
     width: 30px;
     margin: 10px;
     background-color: rgb(135, 90, 141);
-    position: absolute;
-    top: 20px;
-    left: 35px;
+    position: relative;
+    top: -320px;
+    left: 10px;
 }
 .logo3 {
     height: 50px;
     width: 30px;
     margin: 10px;
     background-color: rgb(141, 90, 115);
-    position: absolute;
-    top: 30px;
-    left: 45px;
+    position: relative;
+    top: -370px;
+    left: 20px;
 }
 .looong {
     color: floralwhite;
